@@ -145,8 +145,8 @@ Attempts left: 4
 ## 📁 Project Structure
 
 ```
-guess_master.rb
 README.md
+guess_master.rb
 ```
 
 ---
